@@ -74,8 +74,6 @@ vec: what is the tradeoff between consistency and availability
 
 ## Hyde Query Syntax
 
-Hyde queries are hypothetical answer passages (50-100 words). Write what you expect the answer to look like.
-
 ```
 hyde: The rate limiter uses a sliding window algorithm with a 60-second window. When a client exceeds 100 requests per minute, subsequent requests return 429 Too Many Requests.
 ```
